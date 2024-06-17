@@ -19,7 +19,7 @@ STORM RACER é um emocionante jogo de corrida onde os jogadores podem competir e
 Confira um vídeo de gameplay do nosso jogo:
 
 <video width="600" controls>
-  <source src="[GamePlay](https://we.tl/t-hYgNGuvtxR)" type="video/mp4">
+  <source src="https://we.tl/t-hYgNGuvtxR" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
