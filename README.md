@@ -26,7 +26,7 @@ Confira um vídeo de gameplay do nosso jogo:
 
 **Menu Principal:**
 
-![Menu Principal](/prints/menu.png)
+![Menu Principal](PRINTS/menu.png)
 
 **Interação com Objetos (Rampa):**
 
