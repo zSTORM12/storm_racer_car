@@ -18,7 +18,10 @@ STORM RACER é um emocionante jogo de corrida onde os jogadores podem competir e
 
 Confira um vídeo de gameplay do nosso jogo:
 
-[![Gameplay Video](link_do_print_da_capa_do_video)](https://www.youtube.com/watch?v=link_do_video)
+<video width="600" controls>
+  <source src="VIDEO/video-storm-racer_LVuvr9qG.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
@@ -30,15 +33,15 @@ Confira um vídeo de gameplay do nosso jogo:
 
 **Interação com Objetos (Rampa):**
 
-![Interação com Objetos (Rampa)](/prints/interacao_objetos(rampa).png)
+![Interação com Objetos (Rampa)](PRINTS/interacao_objetos(rampa).png)
 
 **Interação com Lombada:**
 
-![Interação com Lombada](/prints/interacao_lombada.png)
+![Interação com Lombada](PRINTS/interacao_lombada.png)
 
 **Fisica de Cair:**
 
-![Fisica de Cair](/prints/fisica_cair.png)
+![Fisica de Cair](PRINTS/fisica_cair.png)
 
 ---
 
@@ -63,7 +66,7 @@ Confira um vídeo de gameplay do nosso jogo:
 
    **Print da Interação com Rampas:**
 
-   ![Interação com Objetos (Rampa)](/prints/interacao_objetos(rampa).png)
+   ![Interação com Objetos (Rampa)](PRINTS/interacao_objetos(rampa).png)
 
 2. **Interação com Lombada:**
    Implementamos uma funcionalidade de interação com lombadas, que cria uma dinâmica realista de desaceleração e aumento de dificuldade, proporcionando uma experiência de corrida mais desafiadora.
@@ -81,7 +84,7 @@ Confira um vídeo de gameplay do nosso jogo:
 
    **Print da Interação com Lombadas:**
 
-   ![Interação com Lombada](/prints/interacao_lombada.png)
+   ![Interação com Lombada](PRINTS/interacao_lombada.png)
 
 3. **Fisica de Cair:**
    A física de cair foi implementada para simular quedas realistas quando o veículo sai da pista ou salta de uma rampa, adicionando um elemento de risco e estratégia à corrida.
@@ -102,4 +105,4 @@ Confira um vídeo de gameplay do nosso jogo:
 
    **Print da Física de Cair:**
 
-   ![Fisica de Cair](/prints/fisica_cair.png)
+   ![Fisica de Cair](PRINTS/fisica_cair.png)
