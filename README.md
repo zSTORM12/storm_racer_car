@@ -26,19 +26,19 @@ Confira um vídeo de gameplay do nosso jogo:
 
 **Menu Principal:**
 
-![Menu Principal](./prints/menu.png)
+![Menu Principal](/prints/menu.png)
 
 **Interação com Objetos (Rampa):**
 
-![Interação com Objetos (Rampa)](./prints/interacao_objetos(rampa).png)
+![Interação com Objetos (Rampa)](/prints/interacao_objetos(rampa).png)
 
 **Interação com Lombada:**
 
-![Interação com Lombada](./prints/interacao_lombada.png)
+![Interação com Lombada](/prints/interacao_lombada.png)
 
 **Fisica de Cair:**
 
-![Fisica de Cair](./prints/fisica_cair.png)
+![Fisica de Cair](/prints/fisica_cair.png)
 
 ---
 
@@ -63,7 +63,7 @@ Confira um vídeo de gameplay do nosso jogo:
 
    **Print da Interação com Rampas:**
 
-   ![Interação com Objetos (Rampa)](./prints/interacao_objetos(rampa).png)
+   ![Interação com Objetos (Rampa)](/prints/interacao_objetos(rampa).png)
 
 2. **Interação com Lombada:**
    Implementamos uma funcionalidade de interação com lombadas, que cria uma dinâmica realista de desaceleração e aumento de dificuldade, proporcionando uma experiência de corrida mais desafiadora.
@@ -81,7 +81,7 @@ Confira um vídeo de gameplay do nosso jogo:
 
    **Print da Interação com Lombadas:**
 
-   ![Interação com Lombada](./prints/interacao_lombada.png)
+   ![Interação com Lombada](/prints/interacao_lombada.png)
 
 3. **Fisica de Cair:**
    A física de cair foi implementada para simular quedas realistas quando o veículo sai da pista ou salta de uma rampa, adicionando um elemento de risco e estratégia à corrida.
@@ -102,4 +102,4 @@ Confira um vídeo de gameplay do nosso jogo:
 
    **Print da Física de Cair:**
 
-   ![Fisica de Cair](./prints/fisica_cair.png)
+   ![Fisica de Cair](/prints/fisica_cair.png)
